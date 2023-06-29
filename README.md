@@ -1,3 +1,4 @@
+# dice-checker
 # Dice Checker Program
 The Dice Checker Program is a Java application that checks the fairness of an 8-sided dice when rolled in a game. It ensures that no player has an unfair advantage or disadvantage.
 ## Features
